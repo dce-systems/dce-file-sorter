@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2662137-a528-443f-9faf-8fd026ba3fc9": {
+      "ProjectGuid": "b2662137-a528-443f-9faf-8fd026ba3fc9",
+      "DisplayName": "DCE.FileSorter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
